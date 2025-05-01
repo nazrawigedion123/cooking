@@ -1,0 +1,152 @@
+[
+    {
+      "id": "banana-bread-001",
+      "name": "Classic Banana Bread",
+      "tags": ["baking", "sweet", "banana"],
+      "ingredients": [
+        "3 ripe bananas, mashed",
+        "1/3 cup melted butter",
+        "1 teaspoon baking soda",
+        "Pinch of salt",
+        "3/4 cup sugar",
+        "1 large egg, beaten",
+        "1 teaspoon vanilla extract",
+        "1 1/2 cups all-purpose flour"
+      ],
+      "instructions": [
+        "Preheat oven to 350°F (175°C). Grease and flour a loaf pan.",
+        "In a large bowl, mash the ripe bananas.",
+        "Stir in the melted butter, baking soda, and salt.",
+        "Add the sugar, beaten egg, and vanilla extract. Mix well.",
+        "Gradually fold in the flour until just combined.",
+        "Pour the batter into the prepared loaf pan.",
+        "Bake for 50-60 minutes, or until a toothpick inserted into the center comes out clean.",
+        "Let cool in the pan for a few minutes before transferring to a wire rack to cool completely."
+      ],
+      "time": "2025-05-01T00:05:00Z"
+    },
+    {
+      "id": "chicken-stir-fry-002",
+      "name": "Easy Chicken Stir-Fry",
+      "tags": ["asian", "chicken", "quick"],
+      "ingredients": [
+        "1 lb boneless, skinless chicken breast, cut into strips",
+        "1 tablespoon soy sauce",
+        "1 teaspoon cornstarch",
+        "1 tablespoon vegetable oil",
+        "1 red bell pepper, sliced",
+        "1 green bell pepper, sliced",
+        "1 onion, sliced",
+        "1 cup broccoli florets",
+        "2 cloves garlic, minced",
+        "1 teaspoon grated ginger",
+        "Stir-fry sauce (store-bought or homemade)"
+      ],
+      "instructions": [
+        "In a bowl, toss the chicken strips with soy sauce and cornstarch.",
+        "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+        "Add the chicken and cook until browned and cooked through.",
+        "Remove chicken from the skillet and set aside.",
+        "Add bell peppers and onion to the skillet and cook until slightly tender.",
+        "Add broccoli florets, garlic, and ginger. Stir-fry for a few minutes.",
+        "Return the chicken to the skillet.",
+        "Pour in the stir-fry sauce and cook until heated through and the sauce has thickened slightly.",
+        "Serve hot over rice or noodles."
+      ],
+      "time": "2025-04-30T23:58:00Z"
+    },
+    {
+      "id": "tomato-soup-003",
+      "name": "Creamy Tomato Soup",
+      "tags": ["soup", "vegetarian", "comfort"],
+      "ingredients": [
+        "2 tablespoons olive oil",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 (28 ounce) cans diced tomatoes, undrained",
+        "4 cups vegetable broth",
+        "1 teaspoon dried oregano",
+        "1/2 teaspoon dried basil",
+        "Salt and pepper to taste",
+        "1/2 cup heavy cream (optional)"
+      ],
+      "instructions": [
+        "Heat olive oil in a large pot over medium heat.",
+        "Add onion and cook until softened, about 5 minutes.",
+        "Stir in garlic and cook for 1 minute more.",
+        "Add diced tomatoes, vegetable broth, oregano, and basil.",
+        "Bring to a boil, then reduce heat and simmer for 20-25 minutes.",
+        "Use an immersion blender or carefully transfer the soup to a regular blender and blend until smooth.",
+        "Return the soup to the pot. Stir in heavy cream (if using) and heat through.",
+        "Season with salt and pepper to taste. Serve hot with grilled cheese or crusty bread."
+      ],
+      "time": "2025-04-30T23:50:00Z"
+    },
+    {
+      "id": "chocolate-chip-cookies-004",
+      "name": "Classic Chocolate Chip Cookies",
+      "tags": ["baking", "sweet", "cookies"],
+      "ingredients": [
+        "1 cup (2 sticks) unsalted butter, softened",
+        "3/4 cup granulated sugar",
+        "3/4 cup packed brown sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "2 1/4 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "2 cups semi-sweet chocolate chips"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C). Grease baking sheets or line with parchment paper.",
+        "In a large bowl, cream together the softened butter, granulated sugar, and brown sugar until light and fluffy.",
+        "Beat in the eggs one at a time, then stir in the vanilla extract.",
+        "In a separate bowl, whisk together the flour, baking soda, and salt.",
+        "Gradually add the dry ingredients to the wet ingredients, mixing until just combined.",
+        "Stir in the chocolate chips.",
+        "Drop rounded tablespoons of dough onto the prepared baking sheets.",
+        "Bake for 9-11 minutes, or until the edges are golden brown and the centers are still slightly soft.",
+        "Let cool on the baking sheets for a few minutes before transferring to a wire rack to cool completely."
+      ],
+      "time": "2025-05-01T00:10:00Z"
+    },
+    {
+      "id": "avocado-toast-005",
+      "name": "Simple Avocado Toast",
+      "tags": ["breakfast", "vegetarian", "easy"],
+      "ingredients": [
+        "2 slices of bread (sourdough, whole wheat, etc.)",
+        "1 ripe avocado",
+        "Salt and pepper to taste",
+        "Optional toppings: red pepper flakes, everything bagel seasoning, lime juice, a fried egg"
+      ],
+      "instructions": [
+        "Toast the bread to your desired level of crispness.",
+        "While the bread is toasting, mash the avocado in a small bowl with a fork.",
+        "Season the mashed avocado with salt and pepper to taste.",
+        "Spread the mashed avocado evenly over the toasted bread.",
+        "Add any optional toppings you desire and serve immediately."
+      ],
+      "time": "2025-04-30T23:45:00Z"
+    },
+    {
+      "id": "beef-tacos-006",
+      "name": "Easy Ground Beef Tacos",
+      "tags": ["mexican", "beef", "easy"],
+      "ingredients": [
+        "1 pound ground beef",
+        "1 packet taco seasoning",
+        "1/2 cup water",
+        "12 corn or flour tortillas",
+        "Optional toppings: shredded lettuce, diced tomatoes, shredded cheese, sour cream, salsa"
+      ],
+      "instructions": [
+        "Brown the ground beef in a skillet over medium heat. Drain off any excess grease.",
+        "Stir in the taco seasoning and water. Bring to a simmer and cook for 5-10 minutes, or until the liquid has reduced.",
+        "Warm the tortillas according to package directions (microwave, oven, or skillet).",
+        "Fill each tortilla with the seasoned ground beef.",
+        "Top with your favorite toppings and serve immediately."
+      ],
+      "time": "2025-05-01T00:02:00Z"
+    }
+  ]
