@@ -30,6 +30,11 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/mongo/readpref"
 
+	// redis
+	"github.com/go-redis/redis/v8"
+
+	//models and handlers
+
 	"github.com/nazrawigedion123/cooking/handlers"
 	"github.com/nazrawigedion123/cooking/models"
 )
@@ -57,21 +62,13 @@ func init() {
 	log.Println("Connected to MongoDB")
 	collection = client.Database(os.Getenv("MONGO_DATABASE")).Collection("recipies")
 
-	recipesHandler = handlers.NewRecipesHandler(ctx, collection)
+	redisClient := redis.NewClient(&redis.Options{
+		Addr:     "localhost:6379",
+		Password: "",
+		DB:       0,
+	})
 
-	// used on time to add data to our database
-	// var listOfRecipes []interface{}
-
-	// for _, recipe := range recipes {
-	// 	listOfRecipes = append(listOfRecipes, recipe)
-	// }
-	// collection := client.Database(os.Getenv("MONGO_DATABASE")).Collection("recipies")
-	// insertManyResult, err := collection.InsertMany(ctx, listOfRecipes)
-	// if err != nil {
-	// 	log.Fatal(err)
-
-	// }
-	// log.Println("Inserted recipies: ", len(insertManyResult.InsertedIDs))
+	recipesHandler = handlers.NewRecipesHandler(ctx, collection, redisClient)
 
 }
 
